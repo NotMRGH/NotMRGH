@@ -1,16 +1,16 @@
 <!-- Centered GitHub Stats -->
 <div align="center">
-    <a href="https://github.com/NotMR_GH/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=NotMR_GH&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark" alt="NotMR_GH's GitHub stats">
+    <a href="https://github.com/NotMRGH/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=NotMRGH&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark" alt="NotMRGH's GitHub stats">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotMR_GH&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&icon_color=ed9004&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotMRGH&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&icon_color=ed9004&theme=dark" alt="Top Langs">
 </div>
 
 <br/>
 <!-- Centered CodeWars Badge -->
 <div align="center">
     <a href="https://www.codewars.com/r/7ZmCCw">
-        <img src="https://www.codewars.com/users/NotMR_GH/badges/large" alt="CodeWars Badge">
+        <img src="https://www.codewars.com/users/NotMRGH/badges/large" alt="CodeWars Badge">
     </a>
 </div>
 <br/>
