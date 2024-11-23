@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004" alt="Python Badge">
     <img src="https://img.shields.io/badge/Linux-Linux-ed9004?logo=linux&logoColor=ed9004" alt="Linux Badge">
     <img src="https://img.shields.io/badge/Docker-Docker-ed9004?logo=docker&logoColor=ed9004" alt="Docker Badge">
-    <a href="https://t.me/mrstudiosfa">
+    <a href="https://t.me/NotMR_GH">
         <img src="https://img.shields.io/badge/Telegram-Telegram-ed9004?logo=telegram&logoColor=ed9004" alt="Telegram Badge">
     </a>
 </div>
